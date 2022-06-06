@@ -21,8 +21,9 @@ When replacing the scores, Thomas High School has the second best overall passin
   <img width="836" alt="Screen Shot 2022-06-05 at 10 25 18 PM" src="https://user-images.githubusercontent.com/105089651/172084843-b8834afd-4a9f-4935-83f3-c6bf92a6ec3f.png">
   * Scores by school size <br />
   Since Thomas High School falls under the category of a medium school, that row is affected in the same columns as mentioned above. 
-  
+  <img width="756" alt="Screen Shot 2022-06-05 at 10 36 02 PM" src="https://user-images.githubusercontent.com/105089651/172085454-f0048ea9-3fcc-4da7-a627-8b6bd4521fd8.png">
   * Scores by school type <br />
  Thomas High School is a charter school. This means the overall passing percentage for charter schools went down slightly. The other columns are affected similarly as mentioned previously.
- 
+ <img width="717" alt="Screen Shot 2022-06-05 at 10 39 31 PM" src="https://user-images.githubusercontent.com/105089651/172085456-53ce4c70-c908-4362-b47a-b7c567f50bd7.png">
 ## 3. Summary
+When removing the ninth grade math and reading scores from Thomas High School we can see that certain areas in the data are impacted more than others. The first thing we notice is the math average scores decrease. This means that ninth graders at Thomas did good in math, so without that data, the other grades bring it down. This goes the same for the passing math percentage. Contrarily, the reading average scores increase. So, without the ninth grade scores, Thomas High School performs better in reading and the passing reading percentage goes up. The most important category to consider is the overall passing percentage. In this case, this category decreased. Lastly, it affected the school's overall performance compared to other schools, but was not significant enough to move Thomas High School out of its number two spot. 
