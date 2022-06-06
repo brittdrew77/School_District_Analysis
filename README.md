@@ -11,16 +11,18 @@ The school summary had quite a few changes. The average math score for Thomas Hi
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? <br />
 When replacing the scores, Thomas High School has the second best overall passing percentage compared to the other schools in the district. This is the same placement as before replacing the scores. 
 <img width="1020" alt="Screen Shot 2022-06-05 at 10 12 47 PM" src="https://user-images.githubusercontent.com/105089651/172083434-5b8532ab-3997-4bdc-adad-f2cf68b7c5b4.png">
-* How does replacing the ninth-grade scores affect the following:
+* How does replacing the ninth-grade scores affect the following: <br />
   * Math and reading scores by grade <br />
   The only difference here is that the average math and the average reading scores for ninth graders at Thomas High School will show up as "nan". This means that there are no scores for the ninth graders, therefore, no data to display. 
 <img width="322" alt="Screen Shot 2022-06-05 at 10 19 11 PM" src="https://user-images.githubusercontent.com/105089651/172083963-8fefd947-9f46-4bc9-9bee-44977176879f.png">
 <img width="313" alt="Screen Shot 2022-06-05 at 10 19 50 PM" src="https://user-images.githubusercontent.com/105089651/172083962-3eaf61bb-3c56-4568-90b4-0afa0f94cbda.png">
   * Scores by school spending <br />
   The row for $631 - 645 was slightly affect by the change, since Thomas High School falls into this spending bin. Overall passing percentage, percentage passing math, and math average were all lower. Percentage passing reading and average reading score were higher. 
-  
+  <img width="836" alt="Screen Shot 2022-06-05 at 10 25 18 PM" src="https://user-images.githubusercontent.com/105089651/172084843-b8834afd-4a9f-4935-83f3-c6bf92a6ec3f.png">
   * Scores by school size <br />
+  Since Thomas High School falls under the category of a medium school, that row is affected in the same columns as mentioned above. 
   
   * Scores by school type <br />
+ Thomas High School is a charter school. This means the overall passing percentage for charter schools went down slightly. The other columns are affected similarly as mentioned previously.
  
 ## 3. Summary
