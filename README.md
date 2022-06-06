@@ -7,11 +7,14 @@ In the district summary we can observe that the average math score was lower tha
 * How is the school summary affected? <br />
 The school summary had quite a few changes. The average math score for Thomas High School was slightly lower than before, but the average reading score was slightly higher. Both the percentage passing math and the percentage passing reading increased, while the overall passing percentage for Thomas High School decreased. <img width="1020" alt="Screen Shot 2022-06-05 at 10 03 07 PM" src="https://user-images.githubusercontent.com/105089651/172082794-45f29bf9-1ce0-4638-ae29-206f7d6f7c45.png"> 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? <br />
-When replacing the scores, Thomas High School has the second best overall passing percentage compared to the other schools in the district. This is the same placement as before replacing the scores. 
+When replacing the scores, Thomas High School has the second best overall passing percentage compared to the other schools in the district. This is the same placement as before replacing the scores. <img width="1020" alt="Screen Shot 2022-06-05 at 10 12 47 PM" src="https://user-images.githubusercontent.com/105089651/172083434-5b8532ab-3997-4bdc-adad-f2cf68b7c5b4.png">
 * How does replacing the ninth-grade scores affect the following:
-  * Math and reading scores by grade
-  * Scores by school spending
-  * Scores by school size
-  * Scores by school type
-
+  * Math and reading scores by grade <br />
+  The only difference here is that the average math and the average reading scores for ninth graders at Thomas High School will show up as "nan". This means that there are no scores for the ninth graders, therefore, no data to display. 
+  * Scores by school spending <br />
+  
+  * Scores by school size <br />
+  
+  * Scores by school type <br />
+ 
 ## 3. Summary
